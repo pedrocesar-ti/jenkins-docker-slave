@@ -1,5 +1,5 @@
 FROM debian:latest
-MAINTAINER Foo Bar "foo@bar.com"
+MAINTAINER Pedro Azevedo "pedrocesar.ti@gmail.com"
 
 RUN apt-get update
 RUN apt-get install openssh-server -y
